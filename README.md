@@ -4,7 +4,7 @@ I am currently a 3rd year Computer Engineering student and I work part-time in t
 
 Skills: C# - ASP.NET - Basic Level Java - C - C++
 
-- 🔭 I’m currently working on C# - ASP.NET 
+I’m currently working on C# - ASP.NET 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FerhatOzgrKlc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](linkedin.com/in/ferhat-özgür-kiliç-70946a268)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ferhatozgur.104/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ferhatozgurklc//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/20907468/ferhatozgurklc)  
