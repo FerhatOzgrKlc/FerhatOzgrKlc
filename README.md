@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @FerhatOzgrKlc
-- 👀 I’m interested in Object oriented programming.
-- 🌱 I’m currently learning Java - C# - Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm Ferhat from Turkey. I am currently a 3rd year Computer Engineering student and I work part-time in the field of software.
+I have basic knowledge of Java - C - C++
+I am trying to develop programs with C#.
 
-<!---
-FerhatOzgrKlc/FerhatOzgrKlc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
