@@ -2,8 +2,6 @@
 
 I am currently a 3rd year Computer Engineering student and I work part-time in the field of software. 
 
-Skills: C# - ASP.NET - Basic Level Java - C - C++
-
 I’m currently working on C# - ASP.NET 
 
 
